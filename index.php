@@ -63,7 +63,7 @@
 					<b>Contact</b>
 					<br /><br />
 					
-					Available for remote freelance work and contract hire. To discuss a project please get in touch with the studio: <a href="mailto:hello@modocodo.studio" target="_blank" title="hello@modocodo.studio">hello@modocodo.studio</a>
+					Available for remote freelance work. To discuss a project please get in touch with the studio: <a href="mailto:hello@modocodo.studio" target="_blank" title="hello@modocodo.studio">hello@modocodo.studio</a>
 					<br /><br />
 
 					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank" title="hello@timrickaby.com">hello@timrickaby.com</a>
