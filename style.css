@@ -206,7 +206,7 @@ body {
 	#identity { margin-bottom: 10px }
 	#identity img { display: block; margin: auto; width: 180px; height: 180px; }
 	
-	#profile { text-align: center; margin: 40px 0 40px 0; padding: 0 10px 0 10px; }
+	#profile { text-align: center; margin: 40px 0 40px 0; padding: 0 12px 0 12px; }
 
 	#footer { text-align: center; color: #555555; padding: 10px 0 30px 0; }
 	#footer a { color: #555555; }
