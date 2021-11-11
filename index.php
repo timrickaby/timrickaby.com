@@ -42,21 +42,20 @@
 				<h2>Designer. Coder. Occasional Writer.</h2>
 
 				<p>
-					Hi, I'm Tim, a multi-disciplinary designer and developer crafting brand identities, print layouts, digital interfaces, websites and copy.
-					I've worked agency side with global brands like Adidas, Reebok, Virgin and Sky
-					plus freelance with many wonderful small businesses, startups, charities, artists and musicians.
+					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital designs, websites and copy to deliver unique and effective creative and technical solutions.
 					<br /><br />
 
-					Right now I'm the design manager at yarn and craft brand
-					<a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
-					and I create bespoke work for private clients through my design and development studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
+					I've worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
+					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
+					and I create bespoke work for private clients through my studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
 					<br /><br />
 
-					I've recently written and released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a>, an app for Adobe InDesign to simplify content creation
-					for studios and publishers when producing artwork, asset libraries and multi-lingual files. Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
+					I love technology, have a background in coding and have recently written and released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a>, 
+					– an Adobe InDesign app designed for studios and publishers to simplify creation of artwork, asset libraries and multi-lingual files. Other projects and experiments can be found on my
+					<a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
 					<br /><br />
 					
-					Away from work I'll be walking around Yorkshire, taking photos and writing. <?php /* - occasionally publishing some under alter ego, Bimble Kid. */ ?>
+					Away from work I'll likely be walking, photographing, writing and occasionally publishing the results.<?php /* - under alter ego, Bimble Kid. */ ?>
 				</p>
 
 				<p>
