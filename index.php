@@ -39,7 +39,7 @@
 
 			<div id="profile" class="row">
 				<h1>Tim Rickaby</h1>
-				<h2>Designer. Coder. Occasional Writer.</h2>
+				<h2>Designer. Coder. Writer.</h2>
 
 				<p>
 					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital designs, websites and copy to deliver unique and effective creative and technical solutions.
@@ -50,7 +50,7 @@
 					and I create bespoke work for private clients through my studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
 					<br /><br />
 
-					I love technology, have a background in coding and have recently written and released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a>, 
+					I love a side project and have recently written and released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
 					– an Adobe InDesign app designed for studios and publishers to simplify creation of artwork, asset libraries and multi-lingual files. Other projects and experiments can be found on my
 					<a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
 					<br /><br />
