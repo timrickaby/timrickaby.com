@@ -42,16 +42,16 @@
 				<h2>Designer. Coder. Writer.</h2>
 
 				<p>
-					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital designs, websites and copy to deliver unique and effective creative and technical solutions.
+					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and copy to deliver unique and effective creative and technical solutions.
 					<br /><br />
 
-					I have worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
+					I've worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
 					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
 					and I create bespoke work for private clients through my studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
 					<br /><br />
 
-					I've also recently written and released  <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
-					– an Adobe InDesign app designed for studios and publishers to simplify creation of artwork, asset libraries and multi-lingual files. More projects and experiments can be found on my
+					I also recently released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
+					– an Adobe InDesign app helping studios and publishers to simplify delivery of artwork, asset libraries and multi-lingual editorial files. More projects and experiments can be found on my
 					<a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
 					<br /><br />
 					
@@ -62,7 +62,7 @@
 					<b>Contact</b>
 					<br /><br />
 					
-					Available for remote freelance work. To discuss a project please get in touch with the studio: <a href="mailto:hello@modocodo.studio" target="_blank" title="hello@modocodo.studio">hello@modocodo.studio</a>
+					Available for remote freelance work. To discuss a project, drop me a messsage: <a href="mailto:hello@modocodo.studio" target="_blank" title="hello@modocodo.studio">hello@modocodo.studio</a>
 					<br /><br />
 
 					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank" title="hello@timrickaby.com">hello@timrickaby.com</a>
