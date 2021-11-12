@@ -42,7 +42,8 @@
 				<h2>Designer. Coder. Writer.</h2>
 
 				<p>
-					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and copy to deliver unique and effective creative and technical solutions.
+					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
+					to deliver unique and effective creative and technical solutions for clients.
 					<br /><br />
 
 					I've worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
@@ -51,8 +52,8 @@
 					<br /><br />
 
 					I also recently released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
-					– an Adobe InDesign app helping studios and publishers to simplify delivery of artwork, asset libraries and multi-lingual editorial files. More projects and experiments can be found on my
-					<a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
+					– an Adobe InDesign app enabling studios and publishers to simplify delivery the of artwork, asset libraries and multi-lingual editorial files.
+					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
 					<br /><br />
 					
 					Away from work I'll likely be walking, photographing, writing and occasionally publishing the results.<?php /* - under alter ego, Bimble Kid. */ ?>
