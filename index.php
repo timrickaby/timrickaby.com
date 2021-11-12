@@ -45,13 +45,13 @@
 					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital designs, websites and copy to deliver unique and effective creative and technical solutions.
 					<br /><br />
 
-					I've worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
+					I have worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
 					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
 					and I create bespoke work for private clients through my studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
 					<br /><br />
 
-					I love a side project and have recently written and released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
-					– an Adobe InDesign app designed for studios and publishers to simplify creation of artwork, asset libraries and multi-lingual files. Other projects and experiments can be found on my
+					I've also recently written and released  <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
+					– an Adobe InDesign app designed for studios and publishers to simplify creation of artwork, asset libraries and multi-lingual files. More projects and experiments can be found on my
 					<a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
 					<br /><br />
 					
