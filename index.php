@@ -39,7 +39,7 @@
 
 			<div id="profile" class="row">
 				<h1>Tim Rickaby</h1>
-				<h2>Designer. Coder. Writer.</h2>
+				<h2>Design. Code. Words.</h2>
 
 				<p>
 					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
