@@ -43,20 +43,21 @@
 
 				<p>
 					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
-					to deliver unique and effective creative and technical solutions for clients.
+					to deliver unique, effective creative and technical solutions for clients.
+					
 					<br /><br />
-
-					I've worked agency side with brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
+					I've worked agency side for brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
 					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
-					and I create bespoke work for private clients through my studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
+					and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
+					
 					<br /><br />
-
-					I also recently released <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
+					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
 					– an Adobe InDesign app enabling studios and publishers to simplify delivery the of artwork, asset libraries and multi-lingual editorial files.
 					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
-					<br /><br />
 					
-					Away from work I'll likely be walking, photographing, writing and occasionally publishing the results.<?php /* - under alter ego, Bimble Kid. */ ?>
+					<?php /*
+					<br /><br />Away from work I'll likely be walking, photographing, writing and occasionally publishing the results under alter ego, Bimble Kid.
+					*/ ?>
 				</p>
 
 				<p>
