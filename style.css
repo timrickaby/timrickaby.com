@@ -68,6 +68,8 @@ body {
 		background-color: #5c5c5c;
 		transform: scaleX(0);
 		transition: transform 0.3s ease;
+		outline: 1px solid transparent;
+		box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 	}
 	a:hover::before { transform: scaleX(1); }
 	a.faded::before { background-color: #969696 !important; }
@@ -119,8 +121,14 @@ body {
 	background-color: #333;
 	transform: scaleX(1);
 	transition: transform 0.3s ease;
+	outline: 1px solid transparent;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
 }
-#profile a:hover::before { transform: scaleX(0); }
+#profile a:hover::before { 
+	transform: scaleX(0);
+	outline: 1px solid transparent;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
+}
 
 #footer { padding: 70px 0 40px 0; color: #999999; font-size: 0.9em; }
 #footer a { color: #999999; }

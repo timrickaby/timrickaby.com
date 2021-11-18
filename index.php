@@ -70,7 +70,7 @@
 					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank" title="hello@timrickaby.com">hello@timrickaby.com</a>
 					<br /><br />
 					
-					<a href="https://www.linkedin.com/in/timrickaby" target="_blank" title="linkedin.com/modocodo">Work history available on LinkedIn</a>
+					<a href="https://www.linkedin.com/in/timrickaby" target="_blank" title="linkedin.com/in/timrickaby">Work history available on LinkedIn</a>
 					<br /><br />
 					
 					<a href="https://instagram.com/timrickaby" target="_blank" title="instagram.com/timrickaby">Follow on Instagram</a>
