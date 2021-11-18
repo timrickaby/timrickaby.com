@@ -47,13 +47,13 @@
 					
 					<br /><br />
 					I've worked agency side for brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
-					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank" title="instagram.com/westyorkshirespinners">West Yorkshire Spinners</a> 
-					and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank" alt="modocodo.studio">Modocodo</a>.
+					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
+					and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.
 					
 					<br /><br />
-					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank" title="awesomeexporter.com">Awesome Exporter</a> 
+					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
 					– an Adobe InDesign app enabling studios and publishers to simplify delivery the of artwork, asset libraries and multi-lingual editorial files.
-					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank" title="github.com/timrickaby">Github</a>.
+					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.
 					
 					<?php /*
 					<br /><br />Away from work I'll likely be walking, photographing, writing and occasionally publishing the results under alter ego, Bimble Kid.
@@ -64,16 +64,16 @@
 					<b>Contact</b>
 					<br /><br />
 					
-					Available for remote freelance work. To discuss a project, drop me a messsage: <a href="mailto:hello@modocodo.studio" target="_blank" title="hello@modocodo.studio">hello@modocodo.studio</a>
+					Available for remote freelance work. To discuss a project, drop me a messsage: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a>
 					<br /><br />
 
-					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank" title="hello@timrickaby.com">hello@timrickaby.com</a>
+					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a>
 					<br /><br />
 					
-					<a href="https://www.linkedin.com/in/timrickaby" target="_blank" title="linkedin.com/in/timrickaby">Work history available on LinkedIn</a>
+					<a href="https://www.linkedin.com/in/timrickaby" target="_blank">Work history available on LinkedIn</a>
 					<br /><br />
 					
-					<a href="https://instagram.com/timrickaby" target="_blank" title="instagram.com/timrickaby">Follow on Instagram</a>
+					<a href="https://instagram.com/timrickaby" target="_blank">Follow on Instagram</a>
 				</p>
 			</div>
 		
