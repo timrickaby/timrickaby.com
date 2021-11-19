@@ -52,7 +52,7 @@
 					
 					<br /><br />
 					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
-					– an Adobe InDesign app enabling studios and publishers to simplify delivery the of artwork, asset libraries and multi-lingual editorial files.
+					– an Adobe InDesign app enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
 					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.
 					
 					<?php /*
@@ -64,7 +64,7 @@
 					<b>Contact</b>
 					<br /><br />
 					
-					Available for remote freelance work. To discuss a project, drop me a messsage: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a>
+					To discuss an idea or project, drop the studio an email: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a>
 					<br /><br />
 
 					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a>
