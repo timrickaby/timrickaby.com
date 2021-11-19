@@ -43,7 +43,7 @@
 
 				<p>
 					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
-					to deliver unique, effective creative and technical solutions for clients.
+					to deliver unique, meaningful and effective creative and technical solutions for clients.
 					
 					<br /><br />
 					I've worked agency side for brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
