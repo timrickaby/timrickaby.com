@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 	<html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>Tim Rickaby – Designer. Coder. Occasional Writer.</title>	
+		<title>Tim Rickaby – Design. Code. Words.</title>	
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		
@@ -52,8 +52,8 @@
 					
 					<br /><br />
 					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
-					– an Adobe InDesign apextension enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
-					Other projects and experiments can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.
+					– an Adobe InDesign extension enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
+					Other projects can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.
 					
 					<?php /*
 					<br /><br />Away from work I'll likely be walking, photographing, writing and occasionally publishing the results under alter ego, Bimble Kid.
