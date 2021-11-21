@@ -41,40 +41,27 @@
 				<h1>Tim Rickaby</h1>
 				<h2>Design. Code. Words.</h2>
 
-				<p>
-					Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
-					to deliver unique, meaningful and effective creative and technical solutions for clients.
+				<p>Hi, I'm Tim. A designer, coder and writer crafting brand identities, digital design, websites and short-form copy
+				to deliver unique, meaningful and effective creative and technical solutions for clients.</p>
 					
-					<br /><br />
-					I've worked agency side for brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
-					Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
-					and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.
+				<p>I've worked agency side for brands like Adidas, Reebok, Virgin and Sky, plus in-house and freelance with many wonderful SME's, family businesses, startups, charities, artists and musicians.
+				Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
+				and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
+				
+				<p>I have also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
+				– an Adobe InDesign extension enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
+				Other projects can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.</p>
 					
-					<br /><br />
-					I've also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
-					– an Adobe InDesign extension enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
-					Other projects can be found on <a href="https://github.com/timrickaby" target="_blank">Github</a>.
-					
-					<?php /*
-					<br /><br />Away from work I'll likely be walking, photographing, writing and occasionally publishing the results under alter ego, Bimble Kid.
-					*/ ?>
-				</p>
+				<p><?php /* Away from work I'll likely be walking, photographing, writing and occasionally publishing the results under alter ego, Bimble Kid.*/ ?></p>
 
-				<p>
-					<b>Contact</b>
-					<br /><br />
-					
-					To discuss an idea or project, drop the studio an email: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a>
-					<br /><br />
+				<h3>Links</h3>
+				<p><a href="https://modocodo.studio" target="_blank">Modocodo (Studio Portfolio)</a></p>
+				<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">Work history available on LinkedIn</a></p>
+				<p><a href="https://www.instagram.com/timrickaby/" target="_blank">Follow on Instagram</a></p>
 
-					For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a>
-					<br /><br />
-					
-					<a href="https://www.linkedin.com/in/timrickaby" target="_blank">Work history available on LinkedIn</a>
-					<br /><br />
-					
-					<a href="https://instagram.com/timrickaby" target="_blank">Follow on Instagram</a>
-				</p>
+				<h3>Contact</h3>
+				<p>To discuss a project or idea, drop the studio an email: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a></p>
+				<p>For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a></p>
 			</div>
 		
 			<div id="footer" class="row">

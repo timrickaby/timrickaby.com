@@ -85,9 +85,16 @@ body {
 		margin: 0 0 40px 0;
 		color: #999999;
 	}
+	h3 { 
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 27px;
+		color: #333333;
+		margin: 36px 0 12px 0;
+	}
 
 	p {
-		margin: 0 0 40px 0;
+		margin: 0 0 16px 0;
 		padding: 0;
 		word-wrap: break-word;
 	}
