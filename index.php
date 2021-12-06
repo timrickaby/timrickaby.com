@@ -48,7 +48,7 @@
 				Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
 				and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
 				
-				<p>I have also developed a couple of software products, one is <a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> 
+				<p>I have also developed a couple of software products, one is <?php /*<a href="https://awesomeexporter.com" target="_blank">*/ ?>Awesome Exporter<?php /*</a>*/ ?>
 				– an Adobe InDesign extension enabling studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files.
 				Other projects and experiments are available on <a href="https://github.com/timrickaby" target="_blank">Github</a>.</p>
 					
