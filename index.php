@@ -50,7 +50,7 @@
 				and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
 				
 				<p>I’m also a self-taught developer with a love for technology, building projects in JavaScript, PHP and VB and recently releasing 
-				<?php <a href="https://awesomeexporter.com" target="_blank"> ?>Awesome Exporter</a> – 
+				<a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> – 
 				an Adobe InDesign extension written in JavaScript which enables studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files. 
 				Other projects and experiments are available on <a href="https://github.com/timrickaby" target="_blank">GitHub</a>.
 

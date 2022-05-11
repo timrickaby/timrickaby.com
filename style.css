@@ -112,7 +112,7 @@ body {
 
 
 /* Page Layout */
-#page { width: 820px; margin: 100px 0 0 120px; }
+#page { width: 820px; margin: 70px 0 0 120px; }
 
 #identity { margin-bottom: 50px; }
 #identity img { display: block; width: 150px; height: 150px; border-radius: 50%; margin-left: -8px }
