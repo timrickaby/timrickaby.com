@@ -44,19 +44,18 @@
 
 				<p>Crafting brand identities, digital design, websites and short-form copy to deliver creative, technical and strategic solutions which are unique, meaningful and effective.</p>
 					
-				<p>
-				As a designer I've worked agency-side with global brands and in-house with many wonderful SME’s, family businesses, charities and musicians. 
+				<p>As a designer I've worked agency-side with global brands and in-house with many wonderful SME’s, family businesses, charities and musicians. 
 				Right now I'm the design manager at market leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
-				and I create bespoke work for private and freelance clients through my studio – <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
+				and I create bespoke work for freelance clients through my studio – <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
 				
-				<p>I’m also a self-taught developer who loves technology, building projects in JavaScript, PHP and VB. I've recently released 
+				<p>I’m also a self-taught developer who loves technology and codes in JavaScript, PHP, HTML, CSS and VB. I've recently released 
 				<a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> – 
-				an Adobe InDesign extension written in JavaScript and used by studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files. 
-				Other projects and experiments are available on <a href="https://github.com/timrickaby" target="_blank">GitHub</a>.
+				an Adobe InDesign extension used by studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files. 
+				Other projects and experiments are available on <a href="https://github.com/timrickaby" target="_blank">GitHub</a>.</p>
 
 				<h3>Contact</h3>
-				<p>To discuss a project or idea, drop an email to: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a></p>
-				<p>For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a></p>
+				<p>To discuss a new project or idea, get in touch with the studio via: <a href="mailto:hello@modocodo.studio" target="_blank">hello@modocodo.studio</a> or 
+				<a href="tel:+447786432440">+44 (0)7786 432440</a></p>
 
 				<h3>Links</h3>
 				<p><a href="https://modocodo.studio" target="_blank">Modocodo</a>, 
