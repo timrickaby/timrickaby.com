@@ -46,12 +46,12 @@
 					
 				<p>
 				As a designer I've worked agency-side with global brands and in-house with many wonderful SME’s, family businesses, charities and musicians. 
-				Right now I'm the design manager at leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
-				and I create bespoke work for private clients through my small studio, <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
+				Right now I'm the design manager at market leading wool and craft brand <a href="https://instagram.com/westyorkshirespinners" target="_blank">West Yorkshire Spinners</a> 
+				and I create bespoke work for private and freelance clients through my studio – <a href="https://modocodo.studio" target="_blank">Modocodo</a>.</p>
 				
-				<p>I’m also a self-taught developer with a love for technology, building projects in JavaScript, PHP and VB and recently releasing 
+				<p>I’m also a self-taught developer who loves technology, building projects in JavaScript, PHP and VB. I've recently released 
 				<a href="https://awesomeexporter.com" target="_blank">Awesome Exporter</a> – 
-				an Adobe InDesign extension written in JavaScript which enables studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files. 
+				an Adobe InDesign extension written in JavaScript and used by studios and publishers to simplify the delivery of artwork, assets and multi-lingual editorial files. 
 				Other projects and experiments are available on <a href="https://github.com/timrickaby" target="_blank">GitHub</a>.
 
 				<h3>Contact</h3>
@@ -59,10 +59,10 @@
 				<p>For personal messages: <a href="mailto:hello@timrickaby.com" target="_blank">hello@timrickaby.com</a></p>
 
 				<h3>Links</h3>
-				<p><a href="https://modocodo.studio" target="_blank">Modocodo Studio</a></p>
-				<p><a href="https://www.linkedin.com/in/timrickaby" target="_blank">LinkedIn</a></p>
-				<p><a href="https://github.com/timrickaby" target="_blank">GitHub</a></p>
-				<p><a href="https://www.instagram.com/timrickaby/" target="_blank">Instagram</a></p>
+				<p><a href="https://modocodo.studio" target="_blank">Modocodo</a>, 
+				<a href="https://github.com/timrickaby" target="_blank">GitHub</a>, 
+				<a href="https://www.linkedin.com/in/timrickaby" target="_blank">LinkedIn</a> &
+				<a href="https://www.instagram.com/timrickaby/" target="_blank">Instagram</a></p>
 			</div>
 		
 			<div id="footer" class="row">
