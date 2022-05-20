@@ -1,4 +1,3 @@
-
 /* Normalisers */
 * { 
 	outline: none; 
@@ -114,8 +113,8 @@ ul.list li { margin-bottom: 20px; border-left: 0.5px solid #333333; padding-left
 /* Page Layout */
 #page { width: 900px; margin: 70px 0 0 120px; }
 
-#identity { margin-bottom: 40px; }
-#identity img { display: block; width: 150px; height: 150px; border-radius: 50%; margin-left: -8px }
+#identity { margin-bottom: 50px; }
+#identity img { display: block; width: 180px; height: 180px; border-radius: 50%; margin-left: -8px }
 
 #profile a::before {
 	content: "";

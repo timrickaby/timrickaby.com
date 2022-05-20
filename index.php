@@ -1,27 +1,22 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 	<head>
 		<title>Tim Rickaby - Designer & Developer</title>	
 
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		
 		<meta name="robots" content="noarchive"> 
 		<meta name="googlebot" content="noarchive">
-		
-		<link rel="start" href="https://timrickaby.com">
-
-		<link rel="icon" type="image/png" href="/assets/favicon.ico">
-
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
 		<meta name="p:domain_verify" content="ecd67e7cfd7da9d69351db64e3107e74" />
 		<meta name="pinterest" content="nopin" />
 		
 		<link rel="preconnect" href="https://fonts.googleapis.com"> 
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-		<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@200;300;400;500;600&display=swap" rel="stylesheet">
-		
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@200;300;400;500;600&display=swap">
 		<link rel="stylesheet" href="https://use.typekit.net/dfk0buz.css">
 		<link rel="stylesheet" id="style-css" href="/style.css" type="text/css" media="all">
+		<link rel="start" href="https://timrickaby.com">
+		<link rel="icon" type="image/png" href="/assets/favicon.ico">
 
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-NPLW4HTPTF"></script>
 		<script>
